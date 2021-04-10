@@ -100,4 +100,10 @@ Go uses three entities to explain the Goroutine scheduling:
 
 the number of threads available for Goroutines to run is equal to the GOMAXPROCS, which by default is equal to the number of cores available for that application
 
-> [A complete journey with Goroutines](https://riteeksrivastava.medium.com/a-complete-journey-with-goroutines-8472630c7f5c)
+> # [A complete journey with Goroutines](https://riteeksrivastava.medium.com/a-complete-journey-with-goroutines-8472630c7f5c)
+
+# 13. A plain english introduction to CAP Theorem
+
+[A plain english introduction to CAP Theorem](http://ksat.me/a-plain-english-introduction-to-cap-theorem)
+
+> > > > > > > cap
